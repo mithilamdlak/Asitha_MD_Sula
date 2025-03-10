@@ -1,12 +1,12 @@
 <div align="center">
 
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=ＡＳＩＴＨＡ+ＭＤ+V3+ＷＨＡＴＳＡＰＰ+ＢＯＴ+SULA)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=ＡＳＩＴＨＡ+ＭＤ+V4+ＷＨＡＴＳＡＰＰ+ＢＯＴ+SULA)](https://git.io/typing-svg)
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 <p align="center">
 <a href="https://github.com/sulaksha449/Asitha_MD_Sula">
-    <img src=https://i.ibb.co/0GhKf6N/20241120-113020.jpg"  width="700px">
+    <img src=https://i.ibb.co/Kx8t3tdj/233.jpg"  width="700px">
 </a>
 <hr>
  <p align="center">
